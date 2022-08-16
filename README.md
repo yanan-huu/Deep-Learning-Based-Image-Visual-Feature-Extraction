@@ -106,6 +106,6 @@ You can find detailed annotations about how to use these re-ranking methods in R
 <details><summary><b>Retrieval Engine</b></summary>
 <p>
 
-
+For the usage of our integrated retrieval engine, please access our group github link: https://github.com/YYao-42/Image-Search-Engine-for-Historical-Research
 </p>
 </details>
